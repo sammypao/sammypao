@@ -28,9 +28,8 @@
 
 # 📬 Cómo contactarme:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammypaolam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://tu-portfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sammypaolam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shammy-murillo-frias/edit/forms/summary/new/)
 
 ---
 
@@ -43,7 +42,7 @@
 
 ---
 
-# 💻 Actualmente trabajando en:
+# 💻 Trabajos:
 
 - **Goldpilot MNPS**: Un MVP de trading algorítmico (XAUUSD) desarrollado con **React 18, Tailwind y Flask**.
 - Implementando **MetaAPI** para ejecución en tiempo real y **Radix UI** para un dashboard de alta fidelidad centrado en el usuario.
